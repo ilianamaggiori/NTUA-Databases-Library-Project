@@ -44,11 +44,12 @@ Alternatively, use an IDE (e.g., Visual Studio Code) and run the run.py file.
     ```
 You should see the home page of the application.
 
-Features
-Comprehensive management of school library operations.
-Database design optimized for public school networks.
-User-friendly front-end and robust back-end.
-Technologies Used
-Back-end: MySQL, Python (Flask)
-Front-end: HTML, CSS, JavaScript
-Database Management Tools: MySQL Workbench, MySQL Server
+### Features
+- Comprehensive management of school library operations.
+- Database design optimized for public school networks.
+- User-friendly front-end and robust back-end.
+
+### Technologies Used
+- **Back-end:** MySQL, Python (Flask)
+- **Front-end:** HTML, CSS, JavaScript
+- **Database Management Tools:** MySQL Workbench, MySQL Server
