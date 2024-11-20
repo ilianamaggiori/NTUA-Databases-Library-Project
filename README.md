@@ -51,5 +51,5 @@ You should see the home page of the application.
 
 ### Technologies Used
 - **Back-end:** MySQL, Python (Flask)
-- **Front-end:** HTML, CSS, JavaScript
+- **Front-end:** HTML, CSS
 - **Database Management Tools:** MySQL Workbench, MySQL Server
