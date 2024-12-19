@@ -1,6 +1,7 @@
 # **DBMS Semester Project - Spring 2023**
 
 This project involves creating a system to store and manage all the necessary information for operating a **School Library** in a network of **Public Schools**. The system includes both **front-end** and **back-end** components.
+Co-developped with [Manolis Pantelakis](https://github.com/mpantelakis).
 
 ---
 
